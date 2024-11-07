@@ -1,15 +1,8 @@
 # Using the ASVS
 
-As noted in the preface, the ASVS is a standard that defines the functional and non-functional security requirements to consider for modern web applications and web services.
+The ASVS defines functional and non-functional security requirements for modern web applications and services, focusing on application content rather than secure development processes, which are covered in [OWASP SAMM](https://owaspsamm.org/).
 
-It therefore focuses on the content of the application and not the secure processes by which the application should be developed. Secure Development processes are better covered in the [OWASP SAMM](https://owaspsamm.org/) project and are not the primary scope of the ASVS.
-
-In the context of secure requirements, the ASVS should be useful to anyone trying to:
-
-* Develop and maintain secure applications.
-* Evaluate the security of applications.
-
-This chapter will talk about some of the key aspects of using the ASVS including using the levels to take a risk-based approach and different use cases for the standard.
+The ASVS is useful for anyone aiming to develop, maintain, or evaluate secure applications. This chapter covers key aspects of using the ASVS, including risk-based levels and various use cases for the standard
 
 ## Application Security Verification Levels
 
